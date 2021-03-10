@@ -7,4 +7,4 @@ Afirmativo
 Negativo
 Eis a questão
 
-exato
+exato não é resposta, neste caso é afirmativo.
